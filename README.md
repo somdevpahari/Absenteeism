@@ -1,4 +1,4 @@
-# sharing-github
+# Data cleaning with Pandas
 
 Here we are going to clean a data set related to absenteeism. Now we are defining absenteeism in a following way.
 
